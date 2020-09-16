@@ -1,1 +1,1 @@
-# Face_Detection system using python run face.p
+# Face_Detection system using python run face.py
